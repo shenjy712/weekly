@@ -13,3 +13,4 @@
 
 - 第一期：[数学是一个词](./docs/1-issue.md)
 - 第二期：[好好说话](./docs/2-issue.md)
+- 第三期：[deepseek 不容易的一年](./docs/3-issue.md)

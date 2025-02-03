@@ -47,6 +47,8 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
   - https://v0.dev/
   - https://bolt.new/
   - https://www.trickle.so/
+  - https://devv.ai/zh
+  - https://www.perplexity.ai/
 - 【工具】[DualSense 在线测试](https://ds.daidr.me/)
   - https://github.com/daidr/dualsense-tester
 - 【工具】[Comfortably monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
