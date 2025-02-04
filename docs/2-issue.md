@@ -81,6 +81,40 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【工具】[Everything you need to build state-of-the-art foundation models, end-to-end.](https://github.com/oumi-ai/oumi)
 - 【工具】[Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
 - 【工具】[The Fastest State-of-the-Art Static Embeddings in the World](https://github.com/MinishLab/model2vec)
+- 【工具】[Free, simple, and intuitive online database diagram editor and SQL generator-drawdb](https://github.com/drawdb-io/drawdb)
+- 【工具】[A self hosted virtual browser that runs in docker and uses WebRTC](https://github.com/m1k1o/neko)
+- 【工具】[A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- 【网站】[OmniParse](https://github.com/adithya-s-k/omniparse)
+  > OmniParse is a platform that ingests and parses any unstructured data into structured, actionable data optimized for GenAI (LLM) applications. Whether you are working with documents, tables, images, videos, audio files, or web pages, OmniParse prepares your data to be clean, structured, and ready for AI applications such as RAG, fine-tuning, and more
+- 【工具】[浏览器翻译插件](https://github.com/Bistutu/FluentRead)
+- 【工具】[字节跳动开源的一款视频深度估计工具：Video Depth Anything](https://github.com/DepthAnything/Video-Depth-Anything)
+- 【工具】[Open source form builder](https://github.com/heyform/heyform)
+- 【工具】[利用AI大模型，一键生成高清短视频](https://github.com/harry0703/MoneyPrinterTurbo)
+- 【工具】[Jan is an open source alternative to ChatGPT that runs 100% offline on your computer](https://github.com/janhq/jan)
+  - https://jan.ai/
+- 【工具】[Open source LLM engineering platform](https://github.com/langfuse/langfuse)
+  - https://freetts.app/
+- 【工具】[Swiss-army tool for scraping and extracting data from online assets, made for hackers](https://github.com/bjesus/pipet)
+- 【工具】[Coroot is an open-source APM & Observability tool](https://github.com/coroot/coroot)
+- 【工具】[Open Operator](https://open-operator.vercel.app/)
+- 【工具】[Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
+- 【工具】[elmo.chat](https://www.elmo.chat/)
+- 【工具】[icons images](https://icons.expo.app/)
+- 【工具】[开源ERP](https://github.com/frappe/erpnext)
+- 【工具】[视频生成模型](https://replicate.com/tencent/hunyuan-video)
+  - https://replicate.com/minimax/video-01
+  - https://replicate.com/minimax/video-01-live
+  - https://replicate.com/kwaivgi/kling-v1.6-standard
+- 【工具】[简历制作](https://easycv.cn/)
+- 【工具】[工具集合](https://www.matools.com/)
+- 【工具】[一款功能强大的手机投屏电脑工具：Escrcpy](https://github.com/viarotel-org/escrcpy)
+- 【工具】[用最快的速度把你的文件变成一个支付链接](https://etail.me/)
+- 【工具】[About Label Studio is a multi-type data labeling and annotation tool with standardized output format](https://github.com/HumanSignal/label-studio)
+- 【工具】[讲人话就能让 AI 帮你爬海量数据-Firecrawl](https://www.firecrawl.dev/)
+- 【工具】[Youtube 下载器](https://github.com/MattBlackOnly/TubeTube)
+- 【工具】[TikTok/抖音无水印在线解析下载](https://douyin.wtf/)
+- 【工具】[一款开源免费的封面图片制作工具：PicProse](https://github.com/jaaronkot/picprose)
+- 【工具】[Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends](https://github.com/facebookresearch/Kats)
 
 ### 课程 & 书籍📚
 - 【系统设计】[system design interview](https://github.com/mukul96/System-Design-AlexXu)
@@ -129,15 +163,38 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【书籍】[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - 【学习资料】[生成式 AI 学习指南 awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - 【课程】[Architecture 1001: Intel x86-64 Assembly](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-m9B0DhHjkXd8foIMuZO1Gd)
-- 【工具】[About Label Studio is a multi-type data labeling and annotation tool with standardized output format](https://github.com/HumanSignal/label-studio)
-- 【工具】[讲人话就能让 AI 帮你爬海量数据-Firecrawl](https://www.firecrawl.dev/)
 - 【课程】[MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
   - [Introduction to Algorithm](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/)
-- 【工具】[一款功能强大的手机投屏电脑工具：Escrcpy](https://github.com/viarotel-org/escrcpy)
-- 【工具】[用最快的速度把你的文件变成一个支付链接](https://etail.me/)
 - 【视频】[How to design a Simple Memory Allocator for your Operating System](https://x.com/i/status/1883709954403500180)
 - 【slide】[Deep C & C++](https://www.pvv.org/~oma/DeepC_slides_oct2011.pdf)
 - 【书籍】[Understanding Machine learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- 【网站】[learncpp](https://www.learncpp.com/)
+- 【书籍】人的潜能和价值
+- 【学习网站】[Memory Management](https://isocpp.org/wiki/faq/freestore-mgmt)
+- 【api 设计】[Developing Restful APIs](https://github.com/zalando/restful-api-guidelines)
+- 【书籍】[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- 【书籍推荐】
+  - 《巴菲特致股东信》
+  - 《周期》
+  - 《投资最重要的事》
+  - 《猩猩游戏》
+  - 《高增长科技股投资法》
+  - 《穷查理宝典》
+- 【书籍】[Compiler Design in C](https://holub.com/goodies/compiler/compilerDesignInC.pdf)
+- 【书籍】[Think Stats, 3rd edition](https://allendowney.github.io/ThinkStats/)
+- 【文件系统】File System Architectur
+- 【书籍】[小池大鱼](https://book.douban.com/subject/36318952/)
+- 【课程】[CMU's "Introduction to Database Systems" (Fall 2024)](https://15445.courses.cs.cmu.edu/fall2024/schedule.html)
+  - [视频教程](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
+- 【书籍】财务自由笔记：九堂课教你用工资赚到第一个600万
+- 【书籍】[Java 入门](https://dev.java/learn/)
+- 【书籍】黄仁勋·英伟达之心
+- 【书籍】[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+- 【课程】[Creating a Programming Language In C](https://www.youtube.com/playlist?list=PLOLU1vKkB9FZqAr-k5U6blBqt5Kx3InY9)
+- 【书籍】[美团技术年货](https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html)
+- 【课程】[CPU Architecture](https://www.youtube.com/playlist?list=PLG9NdDt7EVwIhZEDHyWlwqMiccKSM9RDG)
+- 【书籍】[CPUMemory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+  - What Every Programmer Should Know About Memory
 
 ### 好文 & 经典博客 blog
 - 【deepseek 公开回复】
@@ -161,10 +218,36 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【字体】[霞鹜开源免费字体一览](https://github.com/lxgw)
 
 ### 文字
-- 决定一件事能不能做成，最重要的因素是你的心力。心力包含你的精神，信念，专注力。你是否相信自己，是否肯定自己。你可以放弃，放弃不是坏事。
-如果决定要做，在这个过程里请充分相信你自己，在你心力的加持下，不断地提升你的能力和行动力。
+- 决定一件事能不能做成，最重要的因素是你的心力。心力包含你的精神，信念，专注力。你是否相信自己，是否肯定自己。你可以放弃，放弃不是坏事。如果决定要做，在这个过程里请充分相信你自己，在你心力的加持下，不断地提升你的能力和行动力。
+-【关键词】Swindon
 
 ### 计算机
 - Screen recorder using Python
 
  ![](./imgs/25-02-0003.jpeg)
+
+- Redis Pattern
+
+ ![](./imgs/25-02-0004.jpeg)
+
+### 好玩
+- 如何选品
+> 一种新的电商选品思路，通过商品投放的广告数据来分析。
+>
+> 核心原理是，大规模投广告的商品，ROI一定是正向的，利用这一点快速找出热点款进行跟卖。
+> 
+> 简单四步即可筛选出目标地区的品类热点商品：
+> 
+> 1.进入免费平台：https://findniche.com/tiktok
+> 
+> 2.选择地区-美国
+> 
+> 3.选择类目-家电
+> 
+> 4.排序方式-广告展现量排序
+
+- https://theme-toggle.rdsx.dev/
+  - https://github.com/rudrodip/theme-toggle-effect
+- https://www.nokia.com/bell-labs/
+  - 贝尔实验室
+- https://github.com/tw93
