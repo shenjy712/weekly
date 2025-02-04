@@ -59,6 +59,28 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【大模型】[MNN 大模型 Android App](https://github.com/alibaba/MNN/blob/master/project/android/apps/MnnLlmApp/README_CN.md)
 - 【工具】[一款实用的 Homebrew 可视化工具：Applite](https://github.com/milanvarady/Applite)
 - 【工具】[Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.](https://github.com/danny-avila/LibreChat)
+- 【工具】[We used DeepSeek-V3 to classify every AI paper on arXiv by topic (agents, VLMs, etc)](https://www.alphaxiv.org/explore)
+- 【工具】[Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative](https://github.com/AppFlowy-IO/AppFlowy)
+- 【工具】[onlook](https://github.com/onlook-dev/onlook)
+- 【工具】[About fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
+- 【工具】[一款跨平台视频下载工具：Lux](https://github.com/iawia002/lux)
+- 【工具】[新榜](https://www.newrank.cn/)
+- 【工具】[deepseek jenus](https://github.com/deepseek-ai/Janus)
+- 【工具】[Open Data Structures](https://opendatastructures.org/)
+- 【工具】[RAG Web UI](https://github.com/rag-web-ui/rag-web-ui)
+- 【资料】[A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
+  - https://ml-ops.org/
+- 【资料】[数据工程师 Complete-Machine-Learning-](https://github.com/Coder-World04/Complete-Machine-Learning-)
+- 【工具】[免费照片转视频 AI 生成器](https://phototo.video/)
+- 【工具】[Visualize and process JSON in seconds](https://json4u.com/)
+- 【工具】[可部署到个人服务器上的实用工具集合](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- 【工具】[简简单单的看直播](https://github.com/xiaoyaocz/dart_simple_live)
+- 【工具】[gitbutler](https://github.com/gitbutlerapp/gitbutler)
+- 【工具】[The world's most flexible commerce platform](https://github.com/medusajs/medusa)
+- 【工具】[A web scraping and browser automation library for Python to build reliable crawlers](https://github.com/apify/crawlee-python)
+- 【工具】[Everything you need to build state-of-the-art foundation models, end-to-end.](https://github.com/oumi-ai/oumi)
+- 【工具】[Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
+- 【工具】[The Fastest State-of-the-Art Static Embeddings in the World](https://github.com/MinishLab/model2vec)
 
 ### 课程 & 书籍📚
 - 【系统设计】[system design interview](https://github.com/mukul96/System-Design-AlexXu)
@@ -102,6 +124,20 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【书籍】Writing a C Compiler: Build a Real Programming Language from Scratch
 - 【课程】[英伟达开源课程](https://sp-events.courses.nvidia.com/dli-india25?ncid=ref-inpa-419622)
 - 【阅读清单】[DeepSeek R1 阅读清单](https://github.com/ninehills/blog/issues/121)
+- 【课程】[Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- 【课程】[Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- 【书籍】[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- 【学习资料】[生成式 AI 学习指南 awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- 【课程】[Architecture 1001: Intel x86-64 Assembly](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-m9B0DhHjkXd8foIMuZO1Gd)
+- 【工具】[About Label Studio is a multi-type data labeling and annotation tool with standardized output format](https://github.com/HumanSignal/label-studio)
+- 【工具】[讲人话就能让 AI 帮你爬海量数据-Firecrawl](https://www.firecrawl.dev/)
+- 【课程】[MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+  - [Introduction to Algorithm](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/)
+- 【工具】[一款功能强大的手机投屏电脑工具：Escrcpy](https://github.com/viarotel-org/escrcpy)
+- 【工具】[用最快的速度把你的文件变成一个支付链接](https://etail.me/)
+- 【视频】[How to design a Simple Memory Allocator for your Operating System](https://x.com/i/status/1883709954403500180)
+- 【slide】[Deep C & C++](https://www.pvv.org/~oma/DeepC_slides_oct2011.pdf)
+- 【书籍】[Understanding Machine learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 ### 好文 & 经典博客 blog
 - 【deepseek 公开回复】
@@ -111,9 +147,24 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【文章】[o3-mini 蛇年初三发布](https://openai.com/index/openai-o3-mini/)
 - 【文章】[搭建免费的企业邮箱](https://javayhu.com/da-jian-mian-fei-de-qi-ye-you-xiang-gmail-resend-cloudflare/)
 - 【文章】[How I Mastered Data Structures and Algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+- 【文章】[Qwen2.5 VL！Qwen2.5 VL！Qwen2.5 VL！](https://qwenlm.github.io/zh/blog/qwen2.5-vl/)
+- 【博客】[Pierre Zemb's Blog](https://pierrezemb.fr/posts/distsys-resources/)
+- 【文章】[Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- 【文章】[10 Must Read Data Structures and Algorithms Books for Developers](https://dev.to/somadevtoo/10-must-read-data-structures-and-algorithms-books-for-developers-39f1)
+- 【文章】[Deepseek-v3 101](https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa)
 
 ### 英语学习
 - 【网站】[newsela](https://newsela.com/)
+- 【语言学习】[About A personalized language-learning tool](https://github.com/baturyilmaz/wordpecker-app)
 
 ### 设计 
 - 【字体】[霞鹜开源免费字体一览](https://github.com/lxgw)
+
+### 文字
+- 决定一件事能不能做成，最重要的因素是你的心力。心力包含你的精神，信念，专注力。你是否相信自己，是否肯定自己。你可以放弃，放弃不是坏事。
+如果决定要做，在这个过程里请充分相信你自己，在你心力的加持下，不断地提升你的能力和行动力。
+
+### 计算机
+- Screen recorder using Python
+
+ ![](./imgs/25-02-0003.jpeg)
