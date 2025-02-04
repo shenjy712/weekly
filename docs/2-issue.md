@@ -195,6 +195,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【课程】[CPU Architecture](https://www.youtube.com/playlist?list=PLG9NdDt7EVwIhZEDHyWlwqMiccKSM9RDG)
 - 【书籍】[CPUMemory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
   - What Every Programmer Should Know About Memory
+- 【课程】[线性代数](https://math.mit.edu/~gs/learningfromdata/)
 
 ### 好文 & 经典博客 blog
 - 【deepseek 公开回复】
