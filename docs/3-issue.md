@@ -37,3 +37,29 @@
 - 【文章】[Hiding Linux processes (introduction)](https://righteousit.com/2024/07/24/hiding-linux-processes-with-bind-mounts/)
   - https://dfir.ch/posts/slash-proc/
 - 【文章】[Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
+
+### 人生经验
+- 人生九练
+  - 练脸皮，放下面子才会有面子
+  - 练自信，自己不自信，谁会相信你
+  - 练阅历，学说话、会办事，学做人
+  - 会赞美，学会拒绝，会赞美，高情商
+  - 练演讲，成功者大多都是演讲高手
+  - 练沉稳，再大的事儿，也要学会淡定
+  - 练心智，不生气、不计较、不被人激怒
+  - 练胆识，敢于和任何人进行眼神对视
+  - 练气场，抬头挺胸，腰板挺直
+
+> 用一個逼字，就什麼都別說了。
+>
+> 如果一個人告訴你，你需要學這些，那是不是他自己該會這些？既然都會這些了，他還沒能力用讓你喜歡的方式來引導你，需要逼你，那他真的會他所說的，你該會的這些嗎？
+> 
+> 不，他當然不會，既然他不會，哪有能力教你這些？
+> 
+> 大概率你在被逼的過程中，你會被打擊而失去自信。會在被逼迫中，情緒習慣變的緊張，而無法和緩和情緒穩定的對待別人，而且被感染了強迫的對待別人的方式，而失去將心比心的真正情商。
+> 
+> 整個陳述就是完全違反了態度教育真正的原理，只會導致被這樣強迫的孩子失去他說的這些能力。
+> 
+> 所以，拜託，如果你不懂心理學，不懂真正的教育，不懂諮商，不懂的怎麼幫助別人成長與改變，就不要發佈這種誤導家長，害死孩子的言論了吧。
+> 
+> 拜託了🙏
