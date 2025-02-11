@@ -9,8 +9,14 @@
 - Github 自带的网页搜索
 - 使用 [SourceGraph](https://sourcegraph.com/github.com/shenjy712/weekly) 进行搜索
 
-## 2025年
+## 2025 年
+
+### 一月
 
 - 第一期：[数学是一个词](./docs/1-issue.md)
 - 第二期：[好好说话](./docs/2-issue.md)
+
+### 二月
+
 - 第三期：[deepseek 不容易的一年](./docs/3-issue.md)
+- 第四期：[自洽的程序员](./docs/4-issue.md)
