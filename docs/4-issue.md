@@ -19,6 +19,7 @@
 - 【大模型】[Memobase is a user profile-based memory system designed to bring long-term user memory to your Generative AI (GenAI) applications. Whether you're building virtual companions, educational tools, or personalized assistants, Memobase empowers your AI to remember, understand, and evolve with your users.](https://github.com/memodb-io/memobase)
 - 【百炼】[百炼大模型](https://bailian.console.aliyun.com)
 - 【字节跳动】[Enio - 字节跳动开源的大型语言模型（LLM）应用开发框架](https://github.com/cloudwego/eino)
+- 【卡通】[ToonCrafter: Generative Cartoon Interpolation](https://github.com/Doubiiu/ToonCrafter)
 
 ## 软件
 
@@ -54,6 +55,16 @@
 - 【工具】[BeeSync](https://github.com/BeeSyncAI/BeeSync)
 - 【工具】[一个学术论文转播客的工具：Podcast，自带学习功能，可以根据用户反馈改进](https://github.com/artnoage/Podcast)
 - 【工具】[A one stop shop for fine tuning and testing LLMs locally using the best tools available.](https://github.com/MaxHastings/Kolo)
+- 【工具】[ezBookkeeping is a lightweight personal bookkeeping app hosted by yourself.](https://github.com/mayswind/ezbookkeeping)
+- 【工具】[About Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.](https://github.com/agersant/polaris)
+- 【工具】[About Tinkerpad is a lightweight and fast PHP playground that works with Docker and SSH](https://github.com/epessine/tinkerpad)
+- 【工具】[Discover all your favorite radio stations](https://theonestopradio.com/)
+- 【工具】[Edit, Resize, and Filter any photos](https://shoteasy.fun/)
+- 【工具】[Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
+- 【工具】[开源的电子书阅读器-readest.com](https://github.com/readest/readest)
+- 【工具】[DistillFlow](https://github.com/horus-ai-labs/DistillFlow/)
+- 【工具】[飞书转换大师是一款能够将飞书文档一键转换为微信公众号排版格式的工具，支持多种样式和组件，简化排版流程，提高创作效率](https://feishu2weixin.funwithbuild.com/)
+- 【工具】[About The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more!](https://github.com/umlx5h/LLPlayer)
 
 ## 课程 & 书籍
 
@@ -70,6 +81,12 @@
 - 【系统设计】[系统设计](https://x.com/ashishps_1/status/1887720590653497353)
 - 【数学】[Numberblocks](https://www.youtube.com/channel/UCPlwvN0w4qFSP1FllALB92w)
 - 【高山科学经典】[100 期的《高山科学经典》](https://pan.baidu.com/s/1ugzp_vFopnfPAqCMn3YgVQ?pwd=perw)
+- 【Nginx】[Nginx 开源教程](https://wangchujiang.com/nginx-tutorial/)
+  - https://github.com/jaywcjlove/nginx-tutorial
+- 【课程】[100 days of ML](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+- 【课程】[Maths for ML](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST)
+- 【课程】[100 Days of DL](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+- 【书籍】为自己思考
 
 ## 计算机基础
 
@@ -87,12 +104,17 @@
 
 - 【网络】[Real-time 3D visualization of Nano cryptocurrency networks - Watch live transactions fly across an interactive globe with 🚀 SpaceX-inspired animations](https://github.com/dalindev/XNOHub.com)
   - https://xnohub.com/
+- 【效应】蔡格尼克效应
+- 【游戏】[超级玛丽](https://github.com/x86matthew/NES-Emulator)
+
+![](./imgs/25-04-0006.jpg)
 
 ## 博客
 
 - 【博客】[Sam Altman](https://blog.samaltman.com/)
 - 【文章集合】[这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成](https://github.com/karminski/one-small-step)
 - 【博客】[Alex Xu's Blog](https://blog.bytebytego.com/)
+- 【文章】[Linux Performance](https://www.brendangregg.com/linuxperf.html)
 
 ## 搞钱必看
 
