@@ -2,6 +2,8 @@
 
 ![](./imgs/25-04-0003.jpg)
 
+- [电影票房 DashBoard](https://piaofang.maoyan.com/dashboard)
+
 > [《自洽的程序员》](https://www.dev-life.site/) 是一本不错的书，也可以下载 [pdf 版本](./book/ziqiadechengxuyuan.pdf), 下面是这本书的简介：
 >
 > 这不是一本技术书
@@ -67,6 +69,8 @@
 - 【工具】[About The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more!](https://github.com/umlx5h/LLPlayer)
 
 ## 课程 & 书籍
+
+> [图灵图书](https://www.ituring.com.cn/)
 
 - 【课程】[HuggingFace 刚刚发布了他们的 AI Agent 课程](https://github.com/huggingface/agents-course)
 - 【书籍】[21 本开源书籍](https://flaviocopes.com/access/)
