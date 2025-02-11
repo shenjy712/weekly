@@ -24,6 +24,7 @@
   - 能够让 PDF 文件看起来像扫描件一样，不需要打印机和扫描仪，只需要点几下即可完成转换。
 - 【工具】[Iptables for local privilege escalation](https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/)
 - 【视频下载工具】[跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B 站视频下载](https://github.com/caorushizi/mediago)
+- 【工具】[Your All-In-One AI Platform](https://github.com/KindaBrazy/LynxHub)
 
 ### 英语学习
 
@@ -82,3 +83,4 @@
 
 - [Get up and running with large language models-ollama](https://ollama.com/)
 - [AnythingLLM](https://anythingllm.com/)
+- [Cherry-Studio](https://github.com/CherryHQ/cherry-studio)
