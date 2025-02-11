@@ -81,6 +81,9 @@
 - 【系统设计】[系统设计](https://x.com/ashishps_1/status/1887720590653497353)
 - 【数学】[Numberblocks](https://www.youtube.com/channel/UCPlwvN0w4qFSP1FllALB92w)
 - 【高山科学经典】[100 期的《高山科学经典》](https://pan.baidu.com/s/1ugzp_vFopnfPAqCMn3YgVQ?pwd=perw)
+
+![](./imgs/25-04-0007.jpg)
+
 - 【Nginx】[Nginx 开源教程](https://wangchujiang.com/nginx-tutorial/)
   - https://github.com/jaywcjlove/nginx-tutorial
 - 【课程】[100 days of ML](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
