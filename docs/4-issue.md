@@ -71,6 +71,7 @@
 - 【工具】[tiktok、B 站等视频下载工具](https://snapany.com/zh)
 - 【工具】[pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast)
 - 【工具】[Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. ](https://github.com/Canner/WrenAI)
+- 【工具】[open source tool to monitor mobile apps-measure](https://www.measure.sh/)
 
 ## 课程 & 书籍
 
