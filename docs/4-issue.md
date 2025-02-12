@@ -124,6 +124,8 @@
 
 ![](./imgs/25-04-0006.jpg)
 
+- 【好玩】[google whisk](https://labs.google/fx/zh/tools/whisk)
+
 ## 博客
 
 - 【博客】[Sam Altman](https://blog.samaltman.com/)

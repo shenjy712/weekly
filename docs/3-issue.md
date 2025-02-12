@@ -17,7 +17,8 @@
 ### 工具
 
 - 【数据库】[Document DB](https://github.com/microsoft/documentdb)
-- 【工具】[Hacking Subaru : Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru) -【工具】[20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.](https://github.com/Lightning-AI/litgpt)
+- 【工具】[Hacking Subaru : Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
+- 【工具】[20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.](https://github.com/Lightning-AI/litgpt)
 - 【工具】[Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 - 【工具】[AI-Powered Stock Insights Platform](https://github.com/vinay-gatech/stocks-insights-ai-agent)
 - 【工具】[一个小众但超实用的开源工具：Look Scanned。](https://github.com/lookscanned/lookscanned.io)
