@@ -72,6 +72,8 @@
 - 【工具】[pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast)
 - 【工具】[Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. ](https://github.com/Canner/WrenAI)
 - 【工具】[open source tool to monitor mobile apps-measure](https://www.measure.sh/)
+- 【工具】[高性能云原生分布式文件系统-juicefs](https://juicefs.com/en/)
+- 【工具】[密塔搜索](https://metaso.cn/)
 
 ## 课程 & 书籍
 
