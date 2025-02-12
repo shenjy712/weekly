@@ -1,8 +1,8 @@
 # 好好说话
 
-2025年1月23日，早上坐地铁上班，到地铁客运中心换乘地铁1号线（湘湖-萧山国际机场方向）列车去文海南路去上班。在客运中心换乘的时候发生了一件很不痛快的事情。
+2025 年 1 月 23 日，早上坐地铁上班，到地铁客运中心换乘地铁 1 号线（湘湖-萧山国际机场方向）列车去文海南路去上班。在客运中心换乘的时候发生了一件很不痛快的事情。
 
-换乘的时候，我在等1号线湘湖-萧山国际机上方向的列车，车子到了，我上了车，另外一个阿姨直接坐上一个座位，并且还占了一个座位。我说，“你不能另一个人还没到就开始占座吧”。她大声对我说，“她是孕妇！”听到这里我就直接找其他的座位了。我在别的座位上刚坐下，用眼睛白冷了她一眼。
+换乘的时候，我在等 1 号线湘湖-萧山国际机上方向的列车，车子到了，我上了车，另外一个阿姨直接坐上一个座位，并且还占了一个座位。我说，“你不能另一个人还没到就开始占座吧”。她大声对我说，“她是孕妇！”听到这里我就直接找其他的座位了。我在别的座位上刚坐下，用眼睛白冷了她一眼。
 
 发生今天这个事情主要的原因是，自己还是不够大度，还是要谦让。况且她还是为比自己年长的阿姨。下次这种情况，自己直接找其他的座位，或者站着，又累不着自己。
 
@@ -11,15 +11,16 @@
 总而言之，还是自己的观察能力不够，不懂得谦让，实属是需要提升的能力呀！还有就是自己的反应能力还是要增强，脑子还是要更快些才好，话也得赶趟。
 
 ### 工具
-- 【免费API】[免费的企业级 Deepseek R1 API ](https://build.nvidia.com/explore/discover)
-- 【日历】[2023-2025中国节假日、调休、补班日历](https://github.com/lanceliao/china-holiday-calender)
+
+- 【免费 API】[免费的企业级 Deepseek R1 API ](https://build.nvidia.com/explore/discover)
+- 【日历】[2023-2025 中国节假日、调休、补班日历](https://github.com/lanceliao/china-holiday-calender)
 - 【搜素】[meilisearch](https://github.com/meilisearch/meilisearch)
   - https://www.meilisearch.com/
 - 【本地发送文件】[localsend](https://github.com/localsend/localsend)
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
 - 【设计】[canva](canva.com)
   - https://canva.cn
-- 【系统监控】[监控所有服务的服务uptime kuma](https://github.com/louislam/uptime-kuma)
+- 【系统监控】[监控所有服务的服务 uptime kuma](https://github.com/louislam/uptime-kuma)
   - https://uptime.kuma.pet/
 - 【工具】[Open source Spotify client](https://github.com/KRTirtho/spotube)
 - 【游戏开发工具】[Open-source game development software](https://github.com/4ian/GDevelop)
@@ -32,12 +33,12 @@
 - 【软件】[NginxUI](https://github.com/0xJacky/nginx-ui)
   - https://nginxui.com/zh_CN/
 - 【软件】[Apache Airflow](https://airflow.apache.org/)
-- 【工具】[DeepSeek R1 is now live on Azure AI Foundry and 
-@GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
+- 【工具】[DeepSeek R1 is now live on Azure AI Foundry and
+  @GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
 - 【AI】[deepseek](https://www.deepseek.com/)
-- 【工具】[微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x](https://github.com/cooderl/wewe-rss)
+- 【工具】[微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成（基于微信读书）v2.x](https://github.com/cooderl/wewe-rss)
 - 【工具】[About
-A libre lightweight streaming front-end for Android.](https://github.com/TeamNewPipe/NewPipe)
+  A libre lightweight streaming front-end for Android.](https://github.com/TeamNewPipe/NewPipe)
   > 对国内设备非常友好，不需要安装 Google 服务框架也能使用，而且无需登录 YouTube 账号。
 - 【工具】AI 工作流平台
   - https://dify.ai/
@@ -48,6 +49,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
   - https://bolt.new/
   - https://www.trickle.so/
   - https://devv.ai/zh
+    - https://devv.ai/build
   - https://www.perplexity.ai/
 - 【工具】[DualSense 在线测试](https://ds.daidr.me/)
   - https://github.com/daidr/dualsense-tester
@@ -89,7 +91,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【工具】[浏览器翻译插件](https://github.com/Bistutu/FluentRead)
 - 【工具】[字节跳动开源的一款视频深度估计工具：Video Depth Anything](https://github.com/DepthAnything/Video-Depth-Anything)
 - 【工具】[Open source form builder](https://github.com/heyform/heyform)
-- 【工具】[利用AI大模型，一键生成高清短视频](https://github.com/harry0703/MoneyPrinterTurbo)
+- 【工具】[利用 AI 大模型，一键生成高清短视频](https://github.com/harry0703/MoneyPrinterTurbo)
 - 【工具】[Jan is an open source alternative to ChatGPT that runs 100% offline on your computer](https://github.com/janhq/jan)
   - https://jan.ai/
 - 【工具】[Open source LLM engineering platform](https://github.com/langfuse/langfuse)
@@ -100,7 +102,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【工具】[Fully open reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 - 【工具】[elmo.chat](https://www.elmo.chat/)
 - 【工具】[icons images](https://icons.expo.app/)
-- 【工具】[开源ERP](https://github.com/frappe/erpnext)
+- 【工具】[开源 ERP](https://github.com/frappe/erpnext)
 - 【工具】[视频生成模型](https://replicate.com/tencent/hunyuan-video)
   - https://replicate.com/minimax/video-01
   - https://replicate.com/minimax/video-01-live
@@ -116,9 +118,10 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【工具】[一款开源免费的封面图片制作工具：PicProse](https://github.com/jaaronkot/picprose)
 - 【工具】[Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends](https://github.com/facebookresearch/Kats)
 
-### 课程 & 书籍📚
+### 课程 & 书籍 📚
+
 - 【系统设计】[system design interview](https://github.com/mukul96/System-Design-AlexXu)
-- 【Python学习课程】
+- 【Python 学习课程】
   ![](./imgs/25-02-0001.jpeg)
 - 【论文】[Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 - 【实时视频音频工具】[livekit](https://github.com/livekit/livekit)
@@ -186,7 +189,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【书籍】[小池大鱼](https://book.douban.com/subject/36318952/)
 - 【课程】[CMU's "Introduction to Database Systems" (Fall 2024)](https://15445.courses.cs.cmu.edu/fall2024/schedule.html)
   - [视频教程](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
-- 【书籍】财务自由笔记：九堂课教你用工资赚到第一个600万
+- 【书籍】财务自由笔记：九堂课教你用工资赚到第一个 600 万
 - 【书籍】[Java 入门](https://dev.java/learn/)
 - 【书籍】黄仁勋·英伟达之心
 - 【书籍】[Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
@@ -198,6 +201,7 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【课程】[线性代数](https://math.mit.edu/~gs/learningfromdata/)
 
 ### 好文 & 经典博客 blog
+
 - 【deepseek 公开回复】
   ![](./imgs/25-02-0002.jpeg)
 - 【博客】[The Ultimate 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
@@ -212,40 +216,45 @@ A libre lightweight streaming front-end for Android.](https://github.com/TeamNew
 - 【文章】[Deepseek-v3 101](https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa)
 
 ### 英语学习
+
 - 【网站】[newsela](https://newsela.com/)
 - 【语言学习】[About A personalized language-learning tool](https://github.com/baturyilmaz/wordpecker-app)
 
-### 设计 
+### 设计
+
 - 【字体】[霞鹜开源免费字体一览](https://github.com/lxgw)
 
 ### 文字
-- 决定一件事能不能做成，最重要的因素是你的心力。心力包含你的精神，信念，专注力。你是否相信自己，是否肯定自己。你可以放弃，放弃不是坏事。如果决定要做，在这个过程里请充分相信你自己，在你心力的加持下，不断地提升你的能力和行动力。
--【关键词】Swindon
+
+- 决定一件事能不能做成，最重要的因素是你的心力。心力包含你的精神，信念，专注力。你是否相信自己，是否肯定自己。你可以放弃，放弃不是坏事。如果决定要做，在这个过程里请充分相信你自己，在你心力的加持下，不断地提升你的能力和行动力。 -【关键词】Swindon
 
 ### 计算机
+
 - Screen recorder using Python
 
- ![](./imgs/25-02-0003.jpeg)
+![](./imgs/25-02-0003.jpeg)
 
 - Redis Pattern
 
- ![](./imgs/25-02-0004.jpeg)
+![](./imgs/25-02-0004.jpeg)
 
 ### 好玩
+
 - 如何选品
-> 一种新的电商选品思路，通过商品投放的广告数据来分析。
->
-> 核心原理是，大规模投广告的商品，ROI一定是正向的，利用这一点快速找出热点款进行跟卖。
-> 
-> 简单四步即可筛选出目标地区的品类热点商品：
-> 
-> 1.进入免费平台：https://findniche.com/tiktok
-> 
-> 2.选择地区-美国
-> 
-> 3.选择类目-家电
-> 
-> 4.排序方式-广告展现量排序
+
+  > 一种新的电商选品思路，通过商品投放的广告数据来分析。
+  >
+  > 核心原理是，大规模投广告的商品，ROI 一定是正向的，利用这一点快速找出热点款进行跟卖。
+  >
+  > 简单四步即可筛选出目标地区的品类热点商品：
+  >
+  > 1.进入免费平台：https://findniche.com/tiktok
+  >
+  > 2.选择地区-美国
+  >
+  > 3.选择类目-家电
+  >
+  > 4.排序方式-广告展现量排序
 
 - https://theme-toggle.rdsx.dev/
   - https://github.com/rudrodip/theme-toggle-effect

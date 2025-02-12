@@ -22,6 +22,7 @@
 - 【百炼】[百炼大模型](https://bailian.console.aliyun.com)
 - 【字节跳动】[Enio - 字节跳动开源的大型语言模型（LLM）应用开发框架](https://github.com/cloudwego/eino)
 - 【卡通】[ToonCrafter: Generative Cartoon Interpolation](https://github.com/Doubiiu/ToonCrafter)
+- 【PandaAI】[Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
 
 ## 软件
 
@@ -67,6 +68,9 @@
 - 【工具】[DistillFlow](https://github.com/horus-ai-labs/DistillFlow/)
 - 【工具】[飞书转换大师是一款能够将飞书文档一键转换为微信公众号排版格式的工具，支持多种样式和组件，简化排版流程，提高创作效率](https://feishu2weixin.funwithbuild.com/)
 - 【工具】[About The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more!](https://github.com/umlx5h/LLPlayer)
+- 【工具】[tiktok、B 站等视频下载工具](https://snapany.com/zh)
+- 【工具】[pdf-to-podcast](https://github.com/NVIDIA-AI-Blueprints/pdf-to-podcast)
+- 【工具】[Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. ](https://github.com/Canner/WrenAI)
 
 ## 课程 & 书籍
 
@@ -94,6 +98,10 @@
 - 【课程】[Maths for ML](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST)
 - 【课程】[100 Days of DL](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
 - 【书籍】为自己思考
+- 【课程】[你管这破玩意叫网络？](https://www.bilibili.com/video/BV17x6hYZEzJ/?vd_source=901e0b3c23d3cff6094d75383834207f)
+- 【课程】[Build an 8-bit computer from scratch](https://eater.net/8bit)
+- 【书籍】每周工作 4 小时
+- 【课程】[Linux : Zero to Hundred](https://www.youtube.com/playlist?list=PL42xkVsLs7Cm5T-r_UEpp3amTY5GgdugK)
 
 ## 计算机基础
 
@@ -122,7 +130,73 @@
 - 【文章集合】[这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成](https://github.com/karminski/one-small-step)
 - 【博客】[Alex Xu's Blog](https://blog.bytebytego.com/)
 - 【文章】[Linux Performance](https://www.brendangregg.com/linuxperf.html)
+- 【文章】[What is Spring Application Advisor? How to Achieve a Continuous Upgrade Culture with Tanzu Spring](https://redmonk.com/videos/what-is-spring-application-advisor-how-to-achieve-a-continuous-upgrade-culture-with-tanzu-spring/)
 
 ## 搞钱必看
 
 ![](./imgs/25-04-0004.jpg)
+
+## 英语学习
+
+> 【学习方法】[快速掌握英语听力，口语的科学方法！](./book/english%20learning.pdf)
+
+## 管理
+
+### 接受工作，只问标准
+
+领导布置一项工作，一定确认好交付标准再去做，说白了就是搞清楚【**领导希望这项工作达到什么样的效果**】
+
+- 用 SMART 原子快速确认领导要求
+  - S(Specific)：具体的，明确具体的指标和细节；
+  - M(Measureable)：确保目标可以量化；
+  - A(Achievable)：目标可行，不理想化；
+  - R(Relevant)：与总目标的相关性；
+  - T(Time-bound)：deadline，明确的完成时间；
+
+### 请示工作，必带方案
+
+工作中遇到问题，不要上来就问领导怎么办，而是要带着至少 2 个方案建议，让领导决策。让领导做选择题，而不是问题题。
+
+- 使用 RIDE 说服模型，说服老板支持你
+  - R(Risk)：风险、目前的困难；
+  - I(Interest)：利益、引入共同的利益；
+  - D(Difference)：差异，A 方案和 B 方案的区别；
+  - E(Effect)：影响，适当体现一些缺点（全挑好的说不真实）
+
+> 举例：领导，这次用户运营策略入宫不进行迭代，我们将无法完成季度指标（风险），策略 A 风险小且有很大概率能提升用户留存率（利益），这个方案比策略 B 更加弹性，可以随时根据实时数据反馈进行调整(差异)，当然，也需要消耗一些活动推广成本（影响）
+
+### 汇报工作，突出结果
+
+结论先行，汇报时先说结论，再说原因，接着用事例辅助证明观点，最后重复结论，工程一次完整的表述。
+
+- PREP 汇报模型
+  - P(Point)：结论先行，上来就给结论，直击重点
+  - R(Reason)：再讲理由，陈述原因，给出有说服力的依据
+  - E(Example)：拿出事例，最好给一个事例
+  - P(Point)：将发散的思维回归结论，强化观点
+
+### 分享工作，细说流程
+
+如果领导让你跟团队分享经验，一定要多维度分析，不可泛泛而谈
+
+- 5W2H 法则-业务/产品分析
+  > 从 7 个维度思考，广泛应用于产品、业务、项目运营、可行性分析，问题解决和落地方法论
+  - What: 产品背景
+  - Who：目标人群
+  - Why：预期目标
+  - Where：使用场景
+  - When：需求节点
+  - How：如何验证
+  - How much：用多少资源，投入产出比
+
+### 复盘工作，总结 SOP
+
+不会复盘 = 低质量重复 = 无法总结出底层逻辑和规律
+
+- GRAI 法则，超厉害工作复盘模型
+  - G(Goal)：回顾目标
+  - R(Result)：评估结果、方向校准、数据验证
+  - A(Analysis)：分析成功/失败原因，表层/深层原因，偶发性和必然性
+  - I(Insight)：总结规律、形成可以复用的方法论（SOP）
+
+> **注意**：对项目、团队有用的文档、流程及时分享，强烈建议做成 SOP。（凸显你的将本增效思维，团队协作意识）
