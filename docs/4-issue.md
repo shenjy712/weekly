@@ -77,6 +77,11 @@
 - 【工具】[Meetily - AI-Powered Meeting Assistant](https://github.com/Zackriya-Solutions/meeting-minutes)
 - 【工具】[OpenAI 接口管理 & 分发系统，改自 songquanpeng/one-api。支持更多模型，加入统计页面，完善非 openai 模型的函数调用。](https://github.com/MartialBE/one-hub)
 - 【工具】[query.rs](https://query.rs/)
+- 【工具】展示代码工具
+  - https://showcode.app/
+  - https://www.ray.so/
+  - https://snappify.com/
+  - https://carbon.now.sh/
 
 ## 课程 & 书籍
 
