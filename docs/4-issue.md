@@ -74,6 +74,8 @@
 - 【工具】[open source tool to monitor mobile apps-measure](https://www.measure.sh/)
 - 【工具】[高性能云原生分布式文件系统-juicefs](https://juicefs.com/en/)
 - 【工具】[密塔搜索](https://metaso.cn/)
+- 【工具】[Meetily - AI-Powered Meeting Assistant](https://github.com/Zackriya-Solutions/meeting-minutes)
+- 【工具】[OpenAI 接口管理 & 分发系统，改自 songquanpeng/one-api。支持更多模型，加入统计页面，完善非 openai 模型的函数调用。](https://github.com/MartialBE/one-hub)
 
 ## 课程 & 书籍
 
@@ -105,6 +107,11 @@
 - 【课程】[Build an 8-bit computer from scratch](https://eater.net/8bit)
 - 【书籍】每周工作 4 小时
 - 【课程】[Linux : Zero to Hundred](https://www.youtube.com/playlist?list=PL42xkVsLs7Cm5T-r_UEpp3amTY5GgdugK)
+- 【课程】[ECE 4760/5730, Cornell University](https://ece4760.github.io/)
+  - [ECE 4760 Designing with Microcontrollers](https://ocw.ece.cornell.edu/courses/ece-4760-designing-with-microcontrollers/)
+  - [视频教程](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
+- 【课程】[Extract the Filesystem of a Container Image](https://labs.iximiuz.com/challenges/extract-container-image-filesystem)
+- 【书籍】优雅的守卫者
 
 ## 计算机基础
 
@@ -117,6 +124,50 @@
 - 你知道它的下半句吗？
 
 ![](./imgs/25-04-0002.jpg)
+
+### 铁娘子
+
+> One's life must matter. Beyond the cooking and the cleaning and the children, one's life must mean more than that. I can't die washing up a tea cpu.
+>
+> 每个人的声明都有其意义。那是超越煮饭、清洗、照顾孩子，人声明的意义远胜于此。我不能一生终老在洗茶杯上。
+>
+> Watch your thoughts, for they become your words.
+>
+> Watch your words, for they become your actions.
+>
+> Watch your actions, for they become your habits.
+>
+> Watch your habits, for they become your character.
+>
+> Watch your character, for it becomes your destiny.
+>
+> What we think, we become.
+>
+> Don't ask me what I'm feeling. Just ask me what I'm thinking.
+>
+> It used to be about trying to do something.
+>
+> Now it's about trying to be someone.
+>
+> People don't think anymore, they feel.
+>
+> One of the great problems of our age is that we're governed by people... who care more about feelings than they do about thoughts and ideas.
+>
+> 这个时代最大的问题是我们被这样的人领导着。。。他更注重感性思维而不是理性的思考和观点。
+
+### 左耳朵耗子 【博客】[coolshell](https://coolshell.org/)
+
+> Great minds discuss ideas
+>
+> 卓越之识论道
+>
+> Average minds discuss events
+>
+> 平常之识论事
+>
+> Small minds discuss people
+>
+> 狹隘之识论人
 
 ## 好玩
 
