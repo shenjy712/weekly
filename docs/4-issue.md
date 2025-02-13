@@ -76,6 +76,7 @@
 - 【工具】[密塔搜索](https://metaso.cn/)
 - 【工具】[Meetily - AI-Powered Meeting Assistant](https://github.com/Zackriya-Solutions/meeting-minutes)
 - 【工具】[OpenAI 接口管理 & 分发系统，改自 songquanpeng/one-api。支持更多模型，加入统计页面，完善非 openai 模型的函数调用。](https://github.com/MartialBE/one-hub)
+- 【工具】[query.rs](https://query.rs/)
 
 ## 课程 & 书籍
 
@@ -187,6 +188,7 @@
 - 【博客】[Alex Xu's Blog](https://blog.bytebytego.com/)
 - 【文章】[Linux Performance](https://www.brendangregg.com/linuxperf.html)
 - 【文章】[What is Spring Application Advisor? How to Achieve a Continuous Upgrade Culture with Tanzu Spring](https://redmonk.com/videos/what-is-spring-application-advisor-how-to-achieve-a-continuous-upgrade-culture-with-tanzu-spring/)
+- 【文章】[发布 Anyshortcut CLI 版以及 Rust 使用半年之后的感受](https://folyd.com/blog/anyshortcut-cli-and-rust/)
 
 ## 搞钱必看
 
@@ -256,3 +258,7 @@
   - I(Insight)：总结规律、形成可以复用的方法论（SOP）
 
 > **注意**：对项目、团队有用的文档、流程及时分享，强烈建议做成 SOP。（凸显你的将本增效思维，团队协作意识）
+
+## 播客
+
+- 【播客】[teahour](https://teahour.fm/)
