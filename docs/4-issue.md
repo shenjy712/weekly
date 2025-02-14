@@ -82,6 +82,15 @@
   - https://www.ray.so/
   - https://snappify.com/
   - https://carbon.now.sh/
+- 【工具】还有哪里可以使用 DeepSeek?
+  - https://iflow.cn/
+  - https://www.wenxiaobai.com/
+  - [官网] https://www.deepseek.com/
+  - https://yuanbao.tencent.com/
+- 【工具】[开源知识库系统 Simba](https://github.com/GitHamza0206/simba)
+- 【工具】[在线工具 PhotoFunia，它能瞬间提升你的图片质量！🚀](https://photofunia.com/)
+- 【工具】[一个基于 AI 强大的有声书工具集：LiberSonora](https://github.com/LiberSonora/LiberSonora)
+  - https://libersonora.github.io/
 
 ## 课程 & 书籍
 
@@ -118,6 +127,8 @@
   - [视频教程](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
 - 【课程】[Extract the Filesystem of a Container Image](https://labs.iximiuz.com/challenges/extract-container-image-filesystem)
 - 【书籍】优雅的守卫者
+- 【课程】[A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+- 【书籍】Python 工匠
 
 ## 计算机基础
 
@@ -194,6 +205,7 @@
 - 【文章】[Linux Performance](https://www.brendangregg.com/linuxperf.html)
 - 【文章】[What is Spring Application Advisor? How to Achieve a Continuous Upgrade Culture with Tanzu Spring](https://redmonk.com/videos/what-is-spring-application-advisor-how-to-achieve-a-continuous-upgrade-culture-with-tanzu-spring/)
 - 【文章】[发布 Anyshortcut CLI 版以及 Rust 使用半年之后的感受](https://folyd.com/blog/anyshortcut-cli-and-rust/)
+- 【文章】[From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](https://huggingface.co/blog/from-chunks-to-blocks)
 
 ## 搞钱必看
 
@@ -267,3 +279,7 @@
 ## 播客
 
 - 【播客】[teahour](https://teahour.fm/)
+
+## 云服务
+
+- 【云服务】[CLAWCLOUD](https://claw.cloud/)
