@@ -91,6 +91,15 @@
 - 【工具】[在线工具 PhotoFunia，它能瞬间提升你的图片质量！🚀](https://photofunia.com/)
 - 【工具】[一个基于 AI 强大的有声书工具集：LiberSonora](https://github.com/LiberSonora/LiberSonora)
   - https://libersonora.github.io/
+- 【工具】[cssnippets](https://cssnippets.shefali.dev/)
+- 【工具】[Turn Anything into Audio You can Listen to](https://omniaudio.info/)
+- 【工具】[svgrepo](https://www.svgrepo.com/)
+- 【工具】[正则表达式可视化工具](https://github.com/Bowen7/regex-vis)
+   - https://regex-vis.com/
+- 【工具】https://www.adora.so/
+- 【工具】[今日热榜](https://tophub.today/)
+- 【工具】[Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time](https://mularahul.github.io/keyviz/)
+- 【工具】[搜索引擎-scira](https://scira.app/)
 
 ## 课程 & 书籍
 
@@ -129,6 +138,12 @@
 - 【书籍】优雅的守卫者
 - 【课程】[A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - 【书籍】Python 工匠
+- 【课程】[Intro to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f17/www/schedule.html)
+   - https://www.cs.cmu.edu/~213/schedule.html
+- 【课程】[About The Art of Problem-Solving in Software Engineering: How to Make MySQL Better](https://github.com/enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better)
+- 【书籍】[大模型基础](https://github.com/ZJU-LLMs/Foundations-of-LLMs)
+- 【书籍】软件开发珠玑
+- 【书籍】《长日将尽》
 
 ## 计算机基础
 
@@ -279,6 +294,9 @@
 ## 播客
 
 - 【播客】[teahour](https://teahour.fm/)
+- 【博客】[hacker news 播客](https://hacker-news.agi.li/)
+  - https://github.com/ccbikai/hacker-news
+  - https://zeli.app/zh
 
 ## 云服务
 
