@@ -66,12 +66,25 @@
   - https://shiki-stream.netlify.app/
 - 【工具】[一个简单好用的个人图书管理系统：Table Book](https://github.com/talebook/talebook)
   - https://www.talebook.org/
+- 【工具】[美国分类信息网站](https://madrid.craigslist.org/)
+- 【工具】[文档工具](https://github.com/fuma-nama/fumadocs)
+  - https://fumadocs.vercel.app/
+- 【工具】Memobase: 为 AI 应用提供基于用户档案的长期记忆系统
+- 【组件】[A collection of neobrutalism-styled Tailwind components.](https://github.com/ekmas/neobrutalism-components)
+- 【工具】[让鼠标滚动更加顺滑](https://github.com/Caldis/Mos)
+  - https://mos.caldis.me/
+- 【工具】[bookmark 工具](https://youmemark.com/)
 
 ## 书籍 & 课程
 
 - 【书籍】[Don't Believe Everything You Think](https://dalanshu.com/b/dont-believe-everything-you-think)
 - 【课程】[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - 【课程】[李沐 AI Paper 领读](https://github.com/mli/paper-reading)
+- 【书籍】[Competitive programmer's handbook](./book/book-competitive%20programmers%20handbook.pdf)
+- 【课程】[Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- 【书籍】[动手学大预言模型](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- 【书籍】当自我来敲门
+- 【分享】[DeepSeek 对 agent、RAG 带来的影响](https://x.com/i/status/1890996612509655234)
 
 ## 电影
 
@@ -79,3 +92,17 @@
 
 - 不丹没有枪
 - 不丹是教室
+
+## 有趣
+
+- 【以物易物】[用一个红色回形针换来了一栋价值 5 万美元的房子](https://x.com/0xCheshire/status/1891779538813640734)
+- 【cool tool】[](https://namesage.hellokaton.me/)
+  - Generate Chinese Name
+
+## AI 新闻
+
+- 【Grok】[Grok 3 发布](https://x.com/xai/status/1891699715298730482)
+
+## blog
+
+- 【文章】[算法面试心得](https://javayhu.com/2016-nian-mian-shi-zhi-nan-zhi-suan-fa-mian-shi-xin-de/)
