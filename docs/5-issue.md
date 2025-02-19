@@ -74,6 +74,16 @@
 - 【工具】[让鼠标滚动更加顺滑](https://github.com/Caldis/Mos)
   - https://mos.caldis.me/
 - 【工具】[bookmark 工具](https://youmemark.com/)
+- 【工具】[Novita](https://novita.ai/)
+- 【工具】[Mail0](https://github.com/nizzyabi/Mail0)
+- 【工具】[Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
+- 【工具】[HiveChat](https://github.com/HiveNexus/HiveChat)
+- 【脚本】[VPS 常用脚本](https://fancy-guavaberry-f60.notion.site/vps?v=19ea84c6e28d8054a366000c7c26ed13)
+- 【工具】[临时邮箱](https://tempmail100.com/)
+- 【工具】[huxe](https://www.huxe.com/)
+- 【工具】[Markdown](https://github.com/tianyaxiang/neurapress)
+- 【工具】[A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+- 【工具】[✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.](https://github.com/AykutSarac/jsoncrack.com)
 
 ## 书籍 & 课程
 
@@ -85,6 +95,9 @@
 - 【书籍】[动手学大预言模型](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - 【书籍】当自我来敲门
 - 【分享】[DeepSeek 对 agent、RAG 带来的影响](https://x.com/i/status/1890996612509655234)
+- 【书籍】副业赚钱
+- 【课程】[MCP](https://www.youtube.com/playlist?list=PL8ZIecHfGQv5o7Y3ltmywfc-jOv-9N4Ap)
+- 【书籍】考试脑科学
 
 ## 电影
 
@@ -98,6 +111,9 @@
 - 【以物易物】[用一个红色回形针换来了一栋价值 5 万美元的房子](https://x.com/0xCheshire/status/1891779538813640734)
 - 【cool tool】[](https://namesage.hellokaton.me/)
   - Generate Chinese Name
+- 乔布斯：每逢大事去散步，边走边谈
+- https://read.cv/explore
+- [白手起家的投机之王](https://x.com/i/status/1891656313823952896)
 
 ## AI 新闻
 
@@ -106,3 +122,28 @@
 ## blog
 
 - 【文章】[算法面试心得](https://javayhu.com/2016-nian-mian-shi-zhi-nan-zhi-suan-fa-mian-shi-xin-de/)
+- 【博客】https://biriukov.dev/
+
+## 国内大预言模型
+
+- [Kimi](https://kimi.moonshot.cn/)
+  - [开放平台](https://platform.moonshot.cn/)
+- [DeepSeek](https://www.deepseek.com/)
+  - [开放平台](https://platform.deepseek.com/)
+- [星火大模型](https://xinghuo.xfyun.cn/)
+  - [开放平台](https://xinghuo.xfyun.cn/sparkapi)
+- [扣子](https://www.coze.cn/)
+
+### API 平台
+
+- https://siliconflow.cn/zh-cn/
+- https://console.cloud.tencent.com/tione/v2?regionId=4
+- https://console.volcengine.com/ark
+- https://bailian.console.aliyun.com
+- https://console.huaweicloud.com/modelarts
+- https://cloud.baidu.com/deepseek.html
+- https://cloud.tencent.com/document/product/1772/115963
+
+## 播客
+
+- 小宇宙：商业访谈录
