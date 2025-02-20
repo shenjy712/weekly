@@ -11,6 +11,8 @@
 
 ## 2025 年
 
+> 【课程】[OS Three Easy Pieces](./docs/os/intro.md)
+
 ### 一月
 
 - 第一期：[数学是一个词](./docs/1-issue.md)

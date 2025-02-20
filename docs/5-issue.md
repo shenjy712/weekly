@@ -138,6 +138,7 @@
 
 - https://siliconflow.cn/zh-cn/
 - https://console.cloud.tencent.com/tione/v2?regionId=4
+  - https://buy.cloud.tencent.com/lkeap
 - https://console.volcengine.com/ark
 - https://bailian.console.aliyun.com
 - https://console.huaweicloud.com/modelarts
