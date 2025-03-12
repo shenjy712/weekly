@@ -24,3 +24,8 @@
 - 第四期：[自洽的程序员](./docs/4-issue.md)
 - 第五期：[员工如厕时间规范](./docs/5-issue.md)
 - 第六期：[永远的小喇叭](./docs/6-issue.md)
+
+### 三月
+
+- 第七期：[Claude 3.7 Sonnet and Claude Code](./docs/7-issue.md)
+- 第八期：[Manus is a general AI agent that turns your thoughts into actions.](./docs/8-issue.md)
