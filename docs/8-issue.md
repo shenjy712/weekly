@@ -134,3 +134,9 @@ mcp so 目前是收录 mcp  servers 数量最多的导航站，谷歌 mcp server
 ```
 
 - https://mcp.so/
+
+## 英文学习
+
+- [TED](https://www.ted.com/)
+  - idea change everything.
+- [TEDed](https://ed.ted.com/)
