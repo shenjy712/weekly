@@ -33,3 +33,4 @@
 - https://github.com/liguodongiot/llm-action
 - https://github.com/jingyaogong/minimind
 - https://github.com/rasbt/LLMs-from-scratch
+- https://github.com/ZJU-LLMs/Foundations-of-LLMs
