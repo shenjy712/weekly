@@ -8,10 +8,28 @@
 - [ransparent proxy server for llama.cpp's server to provide automatic model swapping](https://github.com/mostlygeek/llama-swap)
 - [可以让 Claude 直接与 Blender 对话的 MCP：blender-mcp，通过文字提示即可创建 3D 场景](https://github.com/ahujasid/blender-mcp)
 - [Refly 正式发布 0.4.0，让 AI Native 内容创作引擎更近一步，你现在可以在一处工作空间完成上下文的处理、Claude 3.7 thinking 交互，还能生成海报、PPT、文档或酷炫的网页](https://github.com/refly-ai/refly)
+- [RGA-Gurubase](https://github.com/Gurubase/gurubase)
+- [单词](https://github.com/SteveSuv/remix-words-funny)
+- [devops 相关](https://github.com/wmariuss/awesome-devops)
+- [用 LLM 转 pdf 为 word](https://github.com/jorben/markpdfdown)
+- [Obsidian + AI](https://www.bilibili.com/video/BV1MkQdYVEhp/)
+- [UI copy 工具](https://same.new/)
+- [fastexcel](https://github.com/fast-excel/fastexcel)
+- [Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
+
+## 设计
+
+- [插画网站](https://vectorcraftr.com/)
 
 ## 书籍
 
 - [exploring-js-screen-preview](./book/exploring-js-screen-preview.pdf)
+- 汽车是怎么跑起来的
+- [Oxford Picture Dictionary, 3rd Edition](https://pan.quark.cn/s/bf0c8fadc3d9)
+- 斯坦福 — 极简经济学
+- 专注的真相
+- [小孔龙乐园](https://t.co/goyHFoNSd5)
+- [Zig and Zag](https://t.co/oh1jeDGcSb)
 
 ## 设计
 
@@ -33,6 +51,7 @@ OpenManus 核心作者分享了主要的设计思路和工作流程：
 
 ## 技术文章
 
+- [Hacker New 中文](https://hn.aimaker.dev/)
 - [Github 超 2 万星，OpenManus 核心作者聊 Agent 发展趋势](https://www.bestblogs.dev/article/3cb63c)
 
 ```
@@ -134,6 +153,8 @@ mcp so 目前是收录 mcp  servers 数量最多的导航站，谷歌 mcp server
 ```
 
 - https://mcp.so/
+- https://github.com/modelcontextprotocol/servers
+- https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/
 
 ## 英文学习
 

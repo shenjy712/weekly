@@ -34,3 +34,13 @@
 - https://github.com/jingyaogong/minimind
 - https://github.com/rasbt/LLMs-from-scratch
 - https://github.com/ZJU-LLMs/Foundations-of-LLMs
+- https://github.com/WangRongsheng/awesome-LLM-resourses
+- https://github.com/hamzafarooq/building-llm-applications-from-scratch
+
+## AI 集群
+
+- https://github.com/exo-explore/exo
+
+## interview
+
+- https://github.com/yangshun/tech-interview-handbook
