@@ -30,3 +30,4 @@
 - 第七期：[Claude 3.7 Sonnet and Claude Code](./docs/7-issue.md)
 - 第八期：[Manus is a general AI agent that turns your thoughts into actions.](./docs/8-issue.md)
 - 第九期：[大模型技术相关资料](./docs/9-issue.md)
+- 第十期：[摄影](./docs/10-issue.md)

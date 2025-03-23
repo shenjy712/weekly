@@ -84,6 +84,16 @@
 - 【工具】[Markdown](https://github.com/tianyaxiang/neurapress)
 - 【工具】[A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 - 【工具】[✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.](https://github.com/AykutSarac/jsoncrack.com)
+- https://github.com/cloudreve/Cloudreve
+- https://github.com/DaoCloud/public-image-mirror
+- https://github.com/camel-ai/oasis
+- https://github.com/mannaandpoem/OpenManus
+- 【知识库】[RAG klee](https://github.com/signerlabs/klee)
+- 【文章】[大学生生活之北](https://colleges.chat/)
+- https://github.com/fastapi/full-stack-fastapi-template
+- https://react.email/
+- https://github.com/ssshooter/mind-elixir-core
+- https://www.better-auth.com/
 
 ## 书籍 & 课程
 
@@ -98,6 +108,12 @@
 - 【书籍】副业赚钱
 - 【课程】[MCP](https://www.youtube.com/playlist?list=PL8ZIecHfGQv5o7Y3ltmywfc-jOv-9N4Ap)
 - 【书籍】考试脑科学
+- 逃不开的经济周期
+- 娱乐至死
+- 有钱人和你想的不一样
+- 数学大观
+- 证明的故事
+- [丁丁历险记]()
 
 ## 电影
 
@@ -114,6 +130,8 @@
 - 乔布斯：每逢大事去散步，边走边谈
 - https://read.cv/explore
 - [白手起家的投机之王](https://x.com/i/status/1891656313823952896)
+- 猫猫的奇幻漂流
+- 【视频】[给女朋友拍了一年的写真【2024】](https://www.bilibili.com/video/BV1rRKce2EFQ/?vd_source=901e0b3c23d3cff6094d75383834207f)
 
 ## AI 新闻
 
@@ -123,6 +141,7 @@
 
 - 【文章】[算法面试心得](https://javayhu.com/2016-nian-mian-shi-zhi-nan-zhi-suan-fa-mian-shi-xin-de/)
 - 【博客】https://biriukov.dev/
+- https://justin3go.com/posts/2025/03/03-front-end-self-sufficient-ui-design-claude-ai-version
 
 ## 国内大预言模型
 
@@ -148,3 +167,8 @@
 ## 播客
 
 - 小宇宙：商业访谈录
+
+## 设计
+
+- https://uizard.io/autodesigner/
+- https://github.com/edent/SuperTinyIcons

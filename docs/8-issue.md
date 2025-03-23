@@ -16,6 +16,56 @@
 - [UI copy 工具](https://same.new/)
 - [fastexcel](https://github.com/fast-excel/fastexcel)
 - [Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
+- https://github.com/ocrmypdf/OCRmyPDF
+- [城市租房生存指南](https://zufang.ababtools.com/)
+- [苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用](https://github.com/xxnuo/serverless-qrcode-hub)
+- https://github.com/ZGGSONG/STranslate
+- https://github.com/subframe7536/maple-font
+- https://github.com/jianchang512/clone-voice
+- 40 Sites to Download Books for free
+
+```
+1. Planet eBook
+2. Free-eBooks. net
+3. ManyBooks
+4. LibriVox
+5. Internet Archive
+6. BookBub
+7. Open Library
+8. BookBoon
+9. Feedbooks
+10. Smashwords
+11. Project Gutenberg
+12. Google Books
+13. PDFBooksWorld
+14. FreeTechBooks
+15. Bookyards
+16. GetFreeBooks
+17. eBookLobby
+18. FreeComputerBooks
+19. OpenCulture
+20. Library Genesis (LibGen)
+21. Goodreads
+22. Obooko
+23. O'Reilly
+24. PDF Drive
+25. Anna's Archive
+26. PDF Room
+27. PDF Coffee
+28. Dokumen Pub
+29. Z Library
+30. Ocean of PDF
+31. Dirzon
+32. Booksfree
+33. EngbooksPDF
+34. Elejandria
+35. Espaebook
+36. Wonderful Books
+37. Lectuland
+38. LeerLibrosOnline
+39. ePubLibre
+40. Standard Ebooks
+```
 
 ## 设计
 
@@ -30,6 +80,7 @@
 - 专注的真相
 - [小孔龙乐园](https://t.co/goyHFoNSd5)
 - [Zig and Zag](https://t.co/oh1jeDGcSb)
+- 你是你吃出来的
 
 ## 设计
 
@@ -53,6 +104,16 @@ OpenManus 核心作者分享了主要的设计思路和工作流程：
 
 - [Hacker New 中文](https://hn.aimaker.dev/)
 - [Github 超 2 万星，OpenManus 核心作者聊 Agent 发展趋势](https://www.bestblogs.dev/article/3cb63c)
+- https://lilianweng.github.io/posts/2023-06-23-agent/
+- https://spectrum.ieee.org/6g-bandwidth
+- https://blog.roboflow.com/rf-detr/
+- https://github.com/roboflow/rf-detr
+
+![](./imgs/25-08-0003.png)
+
+- 搞钱必看
+
+![](./imgs/25-08-0004.png)
 
 ```
 来自一位资深软件工程师的质疑：大语言模型（LLM）真的提高了程序员的效率吗？
@@ -155,6 +216,12 @@ mcp so 目前是收录 mcp  servers 数量最多的导航站，谷歌 mcp server
 - https://mcp.so/
 - https://github.com/modelcontextprotocol/servers
 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/
+- https://portkey.ai/mcp-servers
+- https://mcp.composio.dev/
+- https://glama.ai/mcp/servers
+- https://github.com/modelcontextprotocol/servers
+- https://xiangyangqiaomu.feishu.cn/wiki/PXAKwEgLQir9rkkV1zjcGnMHntg?fromScene=spaceOverview
+- https://www.nazha.co/posts/what-is-mcp-and-how-to-use
 
 ## 英文学习
 

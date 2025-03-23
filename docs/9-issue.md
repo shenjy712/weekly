@@ -15,6 +15,8 @@
 
 - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/)
 - [微软更多系列课程](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/?id=%f0%9f%8e%92-%e6%9b%b4%e5%a4%9a%e7%b3%bb%e5%88%97%e8%af%be%e7%a8%8b)
+- https://www.qiaomu.ai/demo/prompt_jailbreak.html
+- https://github.com/Acmesec/PromptJailbreakManual
 
 ## 书籍
 
@@ -36,11 +38,21 @@
 - https://github.com/ZJU-LLMs/Foundations-of-LLMs
 - https://github.com/WangRongsheng/awesome-LLM-resourses
 - https://github.com/hamzafarooq/building-llm-applications-from-scratch
+- https://github.com/datawhalechina/handy-ollama
 
 ## AI 集群
 
 - https://github.com/exo-explore/exo
 
+## Prompt
+
+- https://github.com/linshenkx/prompt-optimizer
+- https://prompts.fresns.cn/
+
 ## interview
 
 - https://github.com/yangshun/tech-interview-handbook
+
+## 与大模型沟通
+
+- https://wisprflow.ai/
