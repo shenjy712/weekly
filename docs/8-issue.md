@@ -19,6 +19,7 @@
 - https://github.com/ocrmypdf/OCRmyPDF
 - [城市租房生存指南](https://zufang.ababtools.com/)
 - [苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用](https://github.com/xxnuo/serverless-qrcode-hub)
+- https://md2card.com/zh/editor
 - https://github.com/ZGGSONG/STranslate
 - https://github.com/subframe7536/maple-font
 - https://github.com/jianchang512/clone-voice
