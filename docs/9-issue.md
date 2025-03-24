@@ -39,6 +39,12 @@
 - https://github.com/WangRongsheng/awesome-LLM-resourses
 - https://github.com/hamzafarooq/building-llm-applications-from-scratch
 - https://github.com/datawhalechina/handy-ollama
+- https://wangwei1237.github.io/LLM_in_Action/
+- https://github.com/Shubhamsaboo/awesome-llm-apps
+
+## 深度学习
+
+- https://zh.d2l.ai/index.html
 
 ## AI 集群
 
@@ -48,6 +54,11 @@
 
 - https://github.com/linshenkx/prompt-optimizer
 - https://prompts.fresns.cn/
+- https://www.kaggle.com/whitepaper-prompt-engineering
+
+## Agent
+
+- https://github.com/microsoft/ai-agents-for-beginners
 
 ## interview
 
