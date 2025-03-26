@@ -59,6 +59,8 @@
 ## Agent
 
 - https://github.com/microsoft/ai-agents-for-beginners
+- https://bbycroft.net/llm
+- https://flowithai.feishu.cn/docx/I5J6dQZt9opp2Rxhdi2c0JnrnKc
 
 ## interview
 

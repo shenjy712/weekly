@@ -31,3 +31,4 @@
 - 第八期：[Manus is a general AI agent that turns your thoughts into actions.](./docs/8-issue.md)
 - 第九期：[大模型技术相关资料](./docs/9-issue.md)
 - 第十期：[摄影](./docs/10-issue.md)
+- 第十一期：[GPT 4o 基于上传的图片修改](./docs/11-issue.md)
