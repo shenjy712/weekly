@@ -1,5 +1,7 @@
 # we are launching a new thing today—images in chatgpt!
 
+> https://openai.com/index/introducing-4o-image-generation/
+
 ![](./imgs/25-11-0001.png)
 
 ## 工具
@@ -15,6 +17,11 @@
 - 一个由 AI 驱动的 UI 自动化 SDK：Midscene.js：https://github.com/web-infra-dev/midscene
   - https://midscenejs.com/zh/
 - 兔子 API：https://api.tu-zi.com/
+- 开源支付平台：https://github.com/juspay/hyperswitch
+
+## 设计
+
+- https://fonts.zeoseven.com/
 
 ## 课程
 
@@ -32,6 +39,7 @@
 - Compiler Design in C
 - Tiny Experiments
 - 泡沫逃生
+- 模仿欲望
 
 ## Lab
 
@@ -40,6 +48,9 @@
 ## 英语学习
 
 - 英语大王思思：https://pan.quark.cn/s/655ffbc1fe75#/list/share
+- 掌握这 850 个单词就能理解 90% 的英语: https://zbenglish.net/sites/basic/basiceng.html
+
+![](./imgs/25-11-0004.jpg)
 
 ## 有趣
 
@@ -60,3 +71,5 @@
 - 说话的艺术
 
 ![](./imgs/25-11-0003.jpg)
+
+- 静音睡眠舱

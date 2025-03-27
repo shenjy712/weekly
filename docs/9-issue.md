@@ -4,6 +4,46 @@
 
 - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 
+## 大模型工具
+
+### 国外
+
+- chatgpt
+- gemini
+- claude
+- https://www.meta.ai/
+- grok
+- copilot
+- https://www.perplexity.ai
+- https://devv.ai/zh
+- coze.com
+- https://gprochat.com/
+- https://storm.genie.stanford.edu/
+- https://legacy.lumina.sh/callback
+- https://aws.amazon.com/cn/q/
+- MarsCode
+- Trae
+- dify.ai
+- huggingface
+- poe.com
+- https://chat.mistral.ai/
+- https://suno.com/home
+- Amazon BedRock: https://dev.amazoncloud.cn/experience/cloudlab?id=65fd86c7ca2a0d291be26068&trk=infoq1
+- https://build.nvidia.com/explore/discover
+- https://github.com/marketplace/models
+
+### 国内
+
+- 文心一言
+- kimi
+- deepseek
+- 通义千问
+- 星火
+- 智普
+- 元宝
+- 零一万勿
+- 盘古
+
 ## 大模型 Token 计算网站
 
 - https://platform.openai.com/tokenizer
