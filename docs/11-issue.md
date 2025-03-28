@@ -18,6 +18,11 @@
   - https://midscenejs.com/zh/
 - 兔子 API：https://api.tu-zi.com/
 - 开源支付平台：https://github.com/juspay/hyperswitch
+- 爆款标题分析：https://www.textimagecraft.com/zh/title-analysis
+- 考公：https://saduck.top/
+- 监控：https://github.com/zaunist/xugou
+- 你需要做一个产品官网/企业网站/个人网站，可以试试这个开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发：https://github.com/onwidget/astrowind
+- Command line utility to extract clean html, markdown and metadata from web pages：https://github.com/kepano/defuddle-cli
 
 ## 设计
 
@@ -40,6 +45,9 @@
 - Tiny Experiments
 - 泡沫逃生
 - 模仿欲望
+- 优秀到不能被忽视
+- 投资中最简单的事
+- 奖励的恶果
 
 ## Lab
 
@@ -73,3 +81,7 @@
 ![](./imgs/25-11-0003.jpg)
 
 - 静音睡眠舱
+
+## 创业
+
+- https://github.com/cyfyifanchen/one-person-company

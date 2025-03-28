@@ -101,6 +101,7 @@
 - https://github.com/microsoft/ai-agents-for-beginners
 - https://bbycroft.net/llm
 - https://flowithai.feishu.cn/docx/I5J6dQZt9opp2Rxhdi2c0JnrnKc
+- https://github.com/MotiaDev/motia
 
 ## interview
 
@@ -109,3 +110,24 @@
 ## 与大模型沟通
 
 - https://wisprflow.ai/
+
+## MCP
+
+- https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/gojue/moling
+
+## RAG
+
+- https://github.com/tzolov/playground-flight-booking
+- https://github.com/marcushellberg/java-ai-playground
+- https://github.com/spring-projects/spring-ai
+- [Spring AI](https://www.youtube.com/watch?v=9Crrhz0pm8s)
+  - https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html
+
+## 向量数据库
+
+- https://github.com/superlinked/superlinked
+
+## 推理
+
+- https://huggingface.co/reasoning-course
