@@ -23,6 +23,11 @@
 - 监控：https://github.com/zaunist/xugou
 - 你需要做一个产品官网/企业网站/个人网站，可以试试这个开源的 AstroWind， 使用 Astro 5.0 + Tailwind CSS 开发：https://github.com/onwidget/astrowind
 - Command line utility to extract clean html, markdown and metadata from web pages：https://github.com/kepano/defuddle-cli
+- https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide
+- https://github.com/martin226/vibe-draw
+- 编程语言学习：https://www.freecodecamp.org/learn/
+- https://github.com/Azzedde/paper_to_podcast
+- 对于编程学习、新框架学习，可以直接去 [freecodecamp](https://www.youtube.com/@freecodecamp) 学习
 
 ## 设计
 
@@ -48,6 +53,7 @@
 - 优秀到不能被忽视
 - 投资中最简单的事
 - 奖励的恶果
+- Writing for impact
 
 ## Lab
 
@@ -57,6 +63,7 @@
 
 - 英语大王思思：https://pan.quark.cn/s/655ffbc1fe75#/list/share
 - 掌握这 850 个单词就能理解 90% 的英语: https://zbenglish.net/sites/basic/basiceng.html
+- https://julebu.co/
 
 ![](./imgs/25-11-0004.jpg)
 

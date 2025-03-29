@@ -131,3 +131,10 @@
 ## 推理
 
 - https://huggingface.co/reasoning-course
+
+## Ghibli Style Model
+
+- https://huggingface.co/KappaNeuro/studio-ghibli-style
+- https://huggingface.co/nitrosocke/Ghibli-Diffusion
+- https://huggingface.co/aaronaftab/mirage-ghibli
+- https://huggingface.co/strangerzonehf/Flux-Ghibli-Art-LoRA
