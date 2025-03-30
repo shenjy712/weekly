@@ -54,6 +54,7 @@
 - 投资中最简单的事
 - 奖励的恶果
 - Writing for impact
+- 数学的雨伞下
 
 ## Lab
 
@@ -88,6 +89,8 @@
 ![](./imgs/25-11-0003.jpg)
 
 - 静音睡眠舱
+- The Memory Hierarchy
+  - CPU > PROCESSOR REGISTER > Level1 Cache > Level2 Cache > Level3 Cache > PHYSICAL MEMORY > SSD
 
 ## 创业
 

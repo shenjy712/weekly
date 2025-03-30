@@ -85,6 +85,8 @@
 ## 深度学习
 
 - https://zh.d2l.ai/index.html
+- [强化学习](https://www.youtube.com/watch?v=vmkRMvhCW5c)
+  - https://wangshusen.github.io/
 
 ## AI 集群
 
