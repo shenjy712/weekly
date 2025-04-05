@@ -93,7 +93,7 @@
 - https://github.com/fastapi/full-stack-fastapi-template
 - https://react.email/
 - https://github.com/ssshooter/mind-elixir-core
-- https://www.better-auth.com/
+- 统一认证工具：https://www.better-auth.com/
 
 ## 书籍 & 课程
 

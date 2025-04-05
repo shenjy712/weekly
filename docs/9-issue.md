@@ -44,6 +44,14 @@
 - 零一万勿
 - 盘古
 
+## 三方 API
+
+- deerAPI: https://api.deerapi.com/
+- kimi platform: https://platform.moonshot.cn/
+- deepseek 开放平台: https://platform.deepseek.com/sign_in
+- O3 AI: https://api.o3.fan/
+- AIHUB: https://aihubmix.com/?aff=SJyh
+
 ## 大模型 Token 计算网站
 
 - https://platform.openai.com/tokenizer
@@ -117,6 +125,7 @@
 
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/gojue/moling
+- https://gitmcp.io/
 
 ## RAG
 

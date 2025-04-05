@@ -222,3 +222,57 @@
 因此，在人生的早期，不管通过什么手段，都要去搞明白社会的真相，社会的运行轨迹。
 
 此文出处【烟雨江湖见闻录】，侵权请联系站长删除。
+
+## 书籍
+
+- 悬崖
+- 写好故事的科学原理
+- 影响力
+
+![](./imgs/25-12-0001.jpg)
+![](./imgs/25-12-0002.jpg)
+
+- 国家的视角：那些试图改善人类状况的项目是如何失败的
+- 失败的逻辑：事情因何出错，世间有无妙策
+- 与社会学同游
+- 格鲁夫给经理人的第一课
+- 《战后欧洲史》
+- 《责任的重负》
+- 《沉疴遍地》
+- 《未竟的往昔》
+- 《论欧洲》
+- 这才是营销
+- 巨婴国
+- 美国十讲
+- 深度休息
+- 如果没有今天，明天会不会有昨天？
+
+## 工具
+
+- 能直播录制工具：https://github.com/ihmily/StreamCap
+- google notebook: https://notebooklm.google/
+- 一键生成临时邮箱：https://github.com/webmonch/hide-my-mail-cloudflare
+- 技术：https://animejs.com/
+- KrillinAI-一款 AI 视频翻译配音工具：https://github.com/krillinai/KrillinAI
+- 无需修改任何代码即可将 MySQL 迁移到 PostgreSQL: https://www.openhalo.org/
+- AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction：https://github.com/TencentARC/AnimeGamer
+- 发票生成器：https://github.com/al1abb/invoify
+- https://tailwindflex.com/
+- 文件传输工具：https://github.com/kyantech/Palmr
+- 查询域名信息的工具：https://w.is
+- deeppdf.ai
+- 中文的 TTS:
+  - https://github.com/fishaudio/fish-speech
+  - https://github.com/FunAudioLLM/CosyVoice
+  - https://kokorottsai.com/
+  - https://elevenlabs.io/
+  - https://cartesia.ai/sonic
+  - https://azure.microsoft.com/en-us/products/ai-services/ai-speech
+
+## Paper
+
+- Inference-Time Scaling for Generalist Reward Modeling: https://arxiv.org/pdf/2504.02495
+
+## 好站
+
+- 盖茨笔记：https://www.gatesnotes.com/
