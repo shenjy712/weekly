@@ -16,6 +16,7 @@
 - copilot
 - https://www.perplexity.ai
 - https://devv.ai/zh
+- v0.dev
 - coze.com
 - https://gprochat.com/
 - https://storm.genie.stanford.edu/
@@ -65,6 +66,8 @@
 - [微软更多系列课程](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/?id=%f0%9f%8e%92-%e6%9b%b4%e5%a4%9a%e7%b3%bb%e5%88%97%e8%af%be%e7%a8%8b)
 - https://www.qiaomu.ai/demo/prompt_jailbreak.html
 - https://github.com/Acmesec/PromptJailbreakManual
+- Hello Ai：https://dmtomhl.github.io/Google-AI-Red-Team-Tutorial-ZH_CN/
+- Computer Learning Reading Materials：https://enhancedformysql.github.io/tech-explorer-hub/reading/index.html
 
 ## 书籍
 
@@ -105,6 +108,7 @@
 - https://github.com/linshenkx/prompt-optimizer
 - https://prompts.fresns.cn/
 - https://www.kaggle.com/whitepaper-prompt-engineering
+- [AI prompt engineering: A deep dive](https://www.youtube.com/watch?v=T9aRN5JkmL8)
 
 ## Agent
 
@@ -123,9 +127,13 @@
 
 ## MCP
 
+- [6000 字+6 个案例：写给普通人的 MCP 入门指南](https://mp.weixin.qq.com/s/BjsoBsUxCzeqXZq46_nrog)
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/github/github-mcp-server
 - https://github.com/gojue/moling
 - https://gitmcp.io/
+- https://github.com/blazickjp/arxiv-mcp-server
+- https://github.com/MobinX/awesome-mcp-list
 
 ## RAG
 

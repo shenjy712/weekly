@@ -246,9 +246,29 @@
 - 美国十讲
 - 深度休息
 - 如果没有今天，明天会不会有昨天？
+- 中间人经济
+- Generative AI with Python and PyTorch
+- 心流
+- 黄金、美元与权力
+- The World After Capital
+- 《未来呼啸而来》
+- 诡辩与真相
+- 欧洲五十年-破碎大陆的返航
+
+![](./imgs/25-12-0003.jpg)
+![](./imgs/25-12-0004.jpg)
+![](./imgs/25-12-0005.jpg)
+![](./imgs/25-12-0006.jpg)
+![](./imgs/25-12-0007.jpg)
+
+- 引爆点
+- 弱传播
+- 经济为什么会崩溃
+-
 
 ## 工具
 
+- [看电视](https://tv.garden/)
 - 能直播录制工具：https://github.com/ihmily/StreamCap
 - google notebook: https://notebooklm.google/
 - 一键生成临时邮箱：https://github.com/webmonch/hide-my-mail-cloudflare
@@ -260,7 +280,12 @@
 - https://tailwindflex.com/
 - 文件传输工具：https://github.com/kyantech/Palmr
 - 查询域名信息的工具：https://w.is
-- deeppdf.ai
+- https://deeppdf.ai
+- https://github.com/DataoceanAI/Dolphin
+- [DockerComposeMaker](https://github.com/ajnart/dcm)
+  - https://compose.ajnart.dev/
+- MCP server for interfacing with Godot game engine：https://github.com/Coding-Solo/godot-mcp
+- 一个强大的 PDF 科学论文翻译工具：https://github.com/funstory-ai/BabelDOC
 - 中文的 TTS:
   - https://github.com/fishaudio/fish-speech
   - https://github.com/FunAudioLLM/CosyVoice
@@ -268,6 +293,39 @@
   - https://elevenlabs.io/
   - https://cartesia.ai/sonic
   - https://azure.microsoft.com/en-us/products/ai-services/ai-speech
+  - https://www.minimax.io/
+- 监控：
+  - https://github.com/bluewave-labs/checkmate
+  - https://nezha.wiki/
+  - https://github.com/louislam/uptime-kuma
+  - https://github.com/harsxv/tinystatus
+  - https://github.com/msgbyte/tianji
+    - https://template.bja.sealos.run/
+    - https://sealos.run/
+  - https://github.com/forrany/Awesome-Ollama-Server
+- 临时邮箱：https://github.com/beilunyang/moemail
+- 【设计】[awesome design dev](https://github.com/noobnooc/awesome-design-dev)
+- https://github.com/funnyzak/cli-cheatsheets
+- OpenAI Academy
+- https://github.com/von-development/awesome-LangGraph
+- https://github.com/sentient-agi/OpenDeepSearch
+- https://github.com/joeseesun/cards-go
+- 滚动截屏工具：
+  - https://www.faststonecapture.cn/
+  - 浏览器插件：GoFullPage
+- 实时协作笔记工具：https://github.com/hedgedoc/hedgedoc
+- 硬件相关项目：https://github.com/Rukenshia/pomodoro
+- 将一句话转化为惊艳视觉图：https://www.textimagecraft.com/zh
+- https://github.com/HeyPuter/puter
+- https://github.com/wojciech-kulik/FlashSpace
+- 电子书音频化：https://github.com/santinic/audiblez
+- 开源手写工具：https://github.com/saber-notes/saber
+- https://github.com/ItusiAI/Open-VoiceCanvas
+- https://github.com/th-ch/youtube-music
+- 项目管理：https://github.com/usekaneo/kaneo
+- 配色：https://github.com/catppuccin/jupyterlab
+- 数据存储：https://github.com/DioCrafts/OxiCloud
+- 东西维修：https://www.ifixit.com/
 
 ## Paper
 
@@ -276,3 +334,55 @@
 ## 好站
 
 - 盖茨笔记：https://www.gatesnotes.com/
+
+## 课程
+
+- [How to do Everything in the Terminal](https://www.youtube.com/watch?v=u2h5fpNIRhI)
+- [Reverse Engineering & Vulnerability Analysis](https://pwn.umasscybersec.org/lectures/index.html#)
+- [测试分布式系统](https://asatarin.github.io/testing-distributed-systems/)
+- 操作系统：https://mohitmishra786.github.io/exploring-os/src/
+  - https://mohitmishra786.github.io/exploring-os/extras/
+
+## 英语学习
+
+- 下课后
+- 星蝶公主
+- 外星也难民
+- 脆莓公园
+- Words 图解词根词源 10000 单词速记上
+- https://www.voachinese.com/
+
+## 名人名言
+
+- 干中学，要边干边学，别先去学。这是一条被低估的人生建议。
+- 不要在兴奋的时候做决定
+- 重新认识（吾日三省吾身）
+
+![](./imgs/25-12-0008.jpg)
+
+## 好玩
+
+### 新人如何做播客 - 史上最简单(简陋)的教程
+
+- 录音设备: iPhone
+- mic
+- 录音软件: 语音备忘录
+- 剪辑：小宇宙 Studio(Web 版)
+- 背景音乐：Pixabay 免费版权音乐
+- https://pixabay.com/music/
+
+### 播客网站
+
+- https://xiaohuolufm.com/
+- https://www.xiaoyuzhoufm.com/
+- https://podcasts.apple.com/cn/browse
+- https://music.amazon.com/podcasts
+- spotify podcast
+
+### 中文播客榜
+
+- https://xyzrank.com/#/
+
+### 好剧
+
+- 棋士
