@@ -84,7 +84,7 @@
 - https://github.com/datawhalechina/llm-universe
 - https://github.com/mlabonne/llm-course
 - https://github.com/liguodongiot/llm-action
-- https://github.com/jingyaogong/minimind
+- https://github.com/jingyaogong/minimind, 可以在本地运行
 - https://github.com/rasbt/LLMs-from-scratch
 - https://github.com/ZJU-LLMs/Foundations-of-LLMs
 - https://github.com/WangRongsheng/awesome-LLM-resourses
@@ -98,6 +98,10 @@
 - https://zh.d2l.ai/index.html
 - [强化学习](https://www.youtube.com/watch?v=vmkRMvhCW5c)
   - https://wangshusen.github.io/
+
+## 强化学习
+
+- https://github.com/McGill-NLP/nano-aha-moment
 
 ## AI 集群
 
@@ -134,6 +138,7 @@
 - https://gitmcp.io/
 - https://github.com/blazickjp/arxiv-mcp-server
 - https://github.com/MobinX/awesome-mcp-list
+- https://github.com/yzfly/Awesome-MCP-ZH
 
 ## RAG
 
@@ -142,6 +147,7 @@
 - https://github.com/spring-projects/spring-ai
 - [Spring AI](https://www.youtube.com/watch?v=9Crrhz0pm8s)
   - https://docs.spring.io/spring-ai/reference/api/retrieval-augmented-generation.html
+- https://github.com/Danielskry/Awesome-RAG
 
 ## 向量数据库
 
@@ -157,3 +163,11 @@
 - https://huggingface.co/nitrosocke/Ghibli-Diffusion
 - https://huggingface.co/aaronaftab/mirage-ghibli
 - https://huggingface.co/strangerzonehf/Flux-Ghibli-Art-LoRA
+
+## TTS
+
+- https://github.com/canopyai/Orpheus-TTS
+
+## 有关大模型的视频
+
+- [code 的秘密花园](https://space.bilibili.com/474921808)
