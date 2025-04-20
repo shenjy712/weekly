@@ -37,3 +37,5 @@
 
 - 第十二期：[英伟达 2025 发布会](./docs/12-issue.md)
 - 第十三期：[敏捷开发](./docs/13-issue.md)
+- 第十四期：[Google Prompt](./docs/14-issue.md)
+- 第十五期：[待定](./docs/15-issue.md)
